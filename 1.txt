@@ -1,0 +1,8 @@
+Write a program that finds the three most frequently occurring integers in positions a[0], a[1], ..., a[n-1] of an array.  
+You can assume that the array contains at least three distinct values, and there are no ties in terms of frequency among the three most frequently occurring elements.s
+Sample Case : 
+Input : 11 
+1 2 3 1 2 3 3 3 2 3 4
+Output : 3 2 1
+
+
